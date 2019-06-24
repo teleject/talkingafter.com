@@ -8,6 +8,9 @@
 // Local dependencies
 @import 'typography';
 
+// Author customizations
+@import 'custom';
+
 /**
  * GLOBAL STYLES 
  */
@@ -49,3 +52,5 @@ hr {
 @import 'components/skip-link';
 @import 'components/syntax-highlighting';
 @import 'components/video-player';
+
+
