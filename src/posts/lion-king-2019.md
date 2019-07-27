@@ -14,6 +14,6 @@ With all the wrinkles, they made only tweaks on the original overall. While seem
 
 Lion King (2019) a good movie because it was paint by numbers over a great movie, Lion King (1994). 
 
-Only thing missing is a Save Ferris GoFundMe drive for Matthew Broderick's contribution.
+Only thing missing is a Save Ferris GoFundMe drive for finding Matthew Broderick's contribution in the new version.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7TavVZMewpY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
